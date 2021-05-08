@@ -7,3 +7,6 @@ requerimiento02-2
 release bug 01
 release bug 02
 release bug 02
+requerimiento01
+
+requerimiento 01-2
